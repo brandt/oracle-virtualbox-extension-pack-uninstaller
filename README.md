@@ -14,8 +14,6 @@ While the VirtualBox Base Package 6.0 is [licensed under the GPLv2][2], the Virt
 
 This extension pack is offered as a separate download, and adds 'USB 2.0 and USB 3.0 Host Controller, Host Webcam, VirtualBox RDP, PXE ROM, Disk Encryption, NVMe' functionality.
 
-This tool 
-
 USAGE
 -----
 Simply execute this script.
