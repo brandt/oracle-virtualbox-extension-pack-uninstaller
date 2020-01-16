@@ -3,7 +3,7 @@ oracle-virtualbox-extension-pack-uninstaller
 
 Check for and uninstall the 'Oracle VM VirtualBox Extension Pack'.
 
-WARNING: While this _should_ also support various other Unix and Linux operating systems, but it has only been tested on macOS so far.
+WARNING: While this _should_ also support various other Unix and Linux operating systems, so far it has only been tested on macOS.
 
 BACKGROUND
 ----------
